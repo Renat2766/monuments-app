@@ -1,0 +1,59 @@
+.searchBlock {
+  width: 50%;
+  padding: 0 350px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .searchCountry {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    .icons {
+      color: #d3d3d3;
+      cursor: pointer;
+      position: absolute;
+      padding: 5px 16px;
+    }
+    input {
+      background: 0;
+      padding: 5px 16px;
+      border: 1px solid #d3d3d3;
+      border-radius: 3px;
+      font-size: 18px;
+      font-weight: 300;
+      font-style: italic;
+      color: #fff;
+      text-align: left;
+      width: 250px;
+      position: relative;
+    }
+  }
+  .searchObject {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: 30px;
+    .icons {
+      color: #d3d3d3;
+      cursor: pointer;
+      position: absolute;
+      padding: 5px 16px;
+    }
+    input {
+      position: relative;
+      background: 0;
+      padding: 5px 16px;
+      border: 1px solid #d3d3d3;
+      border-radius: 3px;
+      font-size: 18px;
+      font-weight: 300;
+      font-style: italic;
+      color: #fff;
+      text-align: left;
+      width: 350px;
+    }
+  }
+}
