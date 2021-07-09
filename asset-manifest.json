@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/monuments-app/static/css/main.a4cba878.chunk.css",
-    "main.js": "/monuments-app/static/js/main.2286b02a.chunk.js",
-    "main.js.map": "/monuments-app/static/js/main.2286b02a.chunk.js.map",
+    "main.js": "/monuments-app/static/js/main.fa900f55.chunk.js",
+    "main.js.map": "/monuments-app/static/js/main.fa900f55.chunk.js.map",
     "runtime-main.js": "/monuments-app/static/js/runtime-main.4a8a69e5.js",
     "runtime-main.js.map": "/monuments-app/static/js/runtime-main.4a8a69e5.js.map",
     "static/css/2.2707a335.chunk.css": "/monuments-app/static/css/2.2707a335.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.2707a335.chunk.css",
     "static/js/2.01500792.chunk.js",
     "static/css/main.a4cba878.chunk.css",
-    "static/js/main.2286b02a.chunk.js"
+    "static/js/main.fa900f55.chunk.js"
   ]
 }
