@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/monuments-app/static/css/main.a4cba878.chunk.css",
+    "main.js": "/monuments-app/static/js/main.2286b02a.chunk.js",
+    "main.js.map": "/monuments-app/static/js/main.2286b02a.chunk.js.map",
+    "runtime-main.js": "/monuments-app/static/js/runtime-main.4a8a69e5.js",
+    "runtime-main.js.map": "/monuments-app/static/js/runtime-main.4a8a69e5.js.map",
+    "static/css/2.2707a335.chunk.css": "/monuments-app/static/css/2.2707a335.chunk.css",
+    "static/js/2.01500792.chunk.js": "/monuments-app/static/js/2.01500792.chunk.js",
+    "static/js/2.01500792.chunk.js.map": "/monuments-app/static/js/2.01500792.chunk.js.map",
+    "index.html": "/monuments-app/index.html",
+    "static/css/2.2707a335.chunk.css.map": "/monuments-app/static/css/2.2707a335.chunk.css.map",
+    "static/css/main.a4cba878.chunk.css.map": "/monuments-app/static/css/main.a4cba878.chunk.css.map",
+    "static/js/2.01500792.chunk.js.LICENSE.txt": "/monuments-app/static/js/2.01500792.chunk.js.LICENSE.txt",
+    "static/media/8k_earth_clouds.08fcd800.jpg": "/monuments-app/static/media/8k_earth_clouds.08fcd800.jpg",
+    "static/media/8k_earth_daymap.54672c1f.jpg": "/monuments-app/static/media/8k_earth_daymap.54672c1f.jpg",
+    "static/media/8k_earth_normal_map.930cf2e9.jpg": "/monuments-app/static/media/8k_earth_normal_map.930cf2e9.jpg",
+    "static/media/8k_earth_specular_map.7b4efa59.jpg": "/monuments-app/static/media/8k_earth_specular_map.7b4efa59.jpg",
+    "static/media/index.scss": "/monuments-app/static/media/background.eac196fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a8a69e5.js",
+    "static/css/2.2707a335.chunk.css",
+    "static/js/2.01500792.chunk.js",
+    "static/css/main.a4cba878.chunk.css",
+    "static/js/main.2286b02a.chunk.js"
+  ]
+}
